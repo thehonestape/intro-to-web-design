@@ -14,7 +14,7 @@ Using any resources at your disposal, design a quck web page that has a picture 
 
 After class
 ------
-Using any resources at your disposal, design a quck web page that has a picture of yourself, along with a snippet about yourself and what you expect to get out of this class.
+
 
 Join our [Slack Channel][slack]
 Sign up for [Github][github]
@@ -22,6 +22,8 @@ Sign up for [Code Pen][codepen]
 Download [Atom][atom]
 
 
+Exercise 1: Due at Next Class
+A general exercise on image and file management. Have not finished setting up spI will post the exercise ASAP here and send an update on Slack.
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
