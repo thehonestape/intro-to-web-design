@@ -4,7 +4,7 @@ title:  "Welcome back to school!"
 date:   2016-01-20
 categories: class
 ---
-Hello and welcome to AVT 217 - Introduction to Web Design
+Hello and welcome to {{ site.title }}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNezZV4648I" frameborder="0" allowfullscreen></iframe>
 
 Our first class will be fairly relaxed. The first couple of minutes will be a quick test of technical ability.
