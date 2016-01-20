@@ -8,6 +8,10 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+hr {
+  margin: 40px 0px 40px 0px;
+}
+
 
 
 /**
@@ -93,13 +97,9 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+    transition: all 0.25s ease-in-out;
 
     &:hover {
-        color: $text-color;
         text-decoration: underline;
     }
 }

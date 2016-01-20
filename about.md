@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is a very basic website for AVT-217 Introduction to Web Design
+[Read the syllabus](https://docs.google.com/document/d/14CPnr4Nz-I3Hux6rFM7DMLc4_Yq70LoeFiaU_bIx_0w)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This site was built using Jekyll [jekyllrb.com](http://jekyllrb.com/) and is hosted on [Github pages](https://pages.github.com/) and uses [Googe Webfont's Source Sans Pro](https://www.google.com/fonts#UsePlace:use/Collection:Source+Sans+Pro).
