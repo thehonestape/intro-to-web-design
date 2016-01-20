@@ -44,6 +44,7 @@ After class
 * Sign up for [Github][github]
 * Sign up for [Code Pen][codepen]
 * Download [Atom][atom]
+* Watch [Don't Fear the Internet Episodes 1-4](http://www.dontfeartheinternet.com/)
 
 
 Exercise 1: Due at Next Class
