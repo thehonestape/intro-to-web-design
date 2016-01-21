@@ -11,7 +11,7 @@ Our first class will be fairly relaxed. The first couple of minutes will be a qu
 
 In class exercise
 ------
-Using any resources at your disposal, design a quck web page that has a picture of yourself, along with a snippet about yourself and what you expect to get out of this class.
+Using any resources at your disposal, design a quick web page that has a picture of yourself, along with a snippet about yourself and what you expect to get out of this class.
 
 ___
 
