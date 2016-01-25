@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Snow Day"
+date:   2016-01-25
+categories: class
+---
+
+Snow Day
+------
+I hope everyone stayed safe during the storm. I also hope you have uploaded your completed exercise to #exercises in [Slack](https://introtowebdesign.slack.com/messages/exercises/).
+
+
+Design Process
+------
+
+The next class will cover some coding basics but really going to focus on the responsive design process.
+
+To be completed by Wednesday 1/27
+------
+
+* Review the Intro, Chapter 1-2 of HTML & CSS (see the syllabus if you don't remember the book). We will have an in class exercise over this material on Wednesday, so please read the text. Should be really easy if you read the text.
+* Read [Designers vs Coding by Frank Chimero](https://gimmebar.com/view/4e5d47592e0aaa9c18000019)
+* Read [Why Designers Really Should Learn to Code](http://blog.capwatkins.com/why-designers-really-should-learn-to-code)
+* Watch [Don't Fear the Internet Episodes 5-6](http://www.dontfeartheinternet.com/)
+* Watch [Brad Frost: Atomic Design](https://vimeo.com/109130093)
+
+
+
+[slack]: https://slack-advanced-web.herokuapp.com/
+[github]:   https://github.com/join
+[codepen]: https://codepen.io/signup/free
+[atom]: https://atom.io/
