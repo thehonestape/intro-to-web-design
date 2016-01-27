@@ -1,0 +1,171 @@
+---
+layout: post
+title:  "Class 3: Design Process"
+date:   2016-01-27
+categories: class
+---
+
+We are a bit behind because of the snow day, so lots to catch up on! Lots and lots to do!
+
+In Class Exercise
+------
+Download [this .zip file](https://www.dropbox.com/s/x2xsfc4rip5gk2h/exercise-2.zip?dl=0).
+
+This is a basic web package. The root folder includes a file called index. Open it in Atom, then drag and drop it to Chrome.
+
+---
+
+Design Process
+------
+
+
+Today we will be discussing web design process, focusing on the current state of web design and how things are being made today.
+[Today's Lecture PDF: Web Design Process](https://www.dropbox.com/s/m5oz7jivqy7wp5c/web_design_process.pdf?dl=0)
+
+
+**Further Links/Resources on the Web Design Process**  
+[This is Responsive: Patterns and Resources](https://bradfrost.github.io/this-is-responsive/)
+[A Designer’s Introduction to “Agile” Methodology](http://webdesign.tutsplus.com/articles/a-designers-introduction-to-agile-methodology--cms-23349)
+[Design Sprint Model](https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf)
+[The Design Sprint](http://www.gv.com/sprint/)
+[Design Better With Rapid Prototyping](https://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)
+
+
+In Class Design Assignment: UX Research, Proto-Personas and
+------
+
+This exercise is meant to help you practice the principles of UX and responsive web design.
+
+**The Setup**  
+You have been approached by [District Taco](http://www.districttaco.com/) to help them design a new website.
+
+
+You will be:
+----
+
+* Conducting a very brief/quick brand audit from the site (current logo, colors, fonts, etc)  
+* We will be fleshing out three proto-personas  
+* Breaking up into groups to design rough wireframes of how the current site would translate to a one page website.
+* Design at least 3 style tiles based on your understanding/knowledge of the customers and the client's needs.  
+
+
+
+**From the Owner**
+<blockquote>Established in 2009 I was born and raised in Yucatan Mexico, when I moved to the US. My first job was in a kitchen of a restaurant in Denver,
+CO. I got tired of only eating the American food the restaurant served. I started to cook my mom's food to eat instead.  That's when my Yucatan culinary skills began. After 9 years, my wife and I moved to VA to start a new life.  I found a good construction job that paid well, unfortunate I got laid off. I spent a lot of time looking for another construction job and wasn't having any luck. My wife was pregnant and was getting depressed because of the lack of work and income. But I was getting support of friends. Every weekend we would get together and I would cook for them.  They always told me that my food was delicious and said I should open a restaurant.  I mentioned to my neighbor how my other friends were suggesting I open a restaurant. He offered to open the business with me including investing.  That's how District Taco was born.</blockquote>
+
+**"What I would like to see in a redesign:"**  
+I want to further showcase the vibrant story of the company. The current design does not reflect our true character. To get a better idea of who we are, check out the inside of our restaurant. Take a look at the original art in the building, the colorful furniture and our colorful customers.
+
+---
+
+**Proto-Personas**  
+Proto personas are a way to get designers and clients on the same page in the first phase of a design project. For this exercise I want you to flesh out the rest of these proto-personas based on user surveys.
+
+
+![Mike](https://randomuser.me/api/portraits/med/men/68.jpg)  
+**Mike**  
+Age: 42  
+Lawyer on Capitol Hill  
+Hobbies: Skydiving, hiking, family  
+<blockquote> Awesome food in one of the best parts of Washington, D.C! Prices are cheap which make this place a go-to lunch destination for many working professionals. If you do intend on eating here for lunch during the workweek, be sure to order in advance online. Place gets packed quickly and stays that way through the entire afternoon. Despite the crowds, also a great place to see all walks of life in Washington, DC.</blockquote>
+<br>
+
+![Roland](https://randomuser.me/api/portraits/med/men/44.jpg)  
+
+**Roland**  
+Age: 22  
+Bartender at a trendy bar   
+Hobbies: Live music, traveling  
+<blockquote>Overall, it's not that great. I'm from LA/SD and have eaten at so many great Mexican restaurants. I was hoping that this place would be at least decent, but I was left disappointed. I wouldn't say that it was horrible...at least it was edible. I guess my search for good Mexican food in DC continues.</blockquote>
+<br>
+
+![Catherine](https://randomuser.me/api/portraits/med/women/72.jpg)  
+**Catherine**  
+Age: 27  
+Executive Director at a non-profit  
+Hobbies: Family, arts and crafts  
+<blockquote>  I don't think anything can top Chipotle's place as my favorite burrito joint, but DT has some cool options, a fresh salsa bar, and is definitely worth a visit (if not just to see what all the fuss is about). I came on a Tuesday evening and got a veggie burrito ($7). I probably should have gotten the fish as others suggested since the veggie seemed a little bland - I ended up making a few trips to the salsa bar to get more flavor. I would stick to non-burrito options next time so I won't as inclined to compare it to Chipotle.</blockquote>
+
+
+Quick example of how we will simplify these stories  
+![mike](https://photos-3.dropbox.com/t/2/AACow5w0cpgYdNFICXb17LPrOnKwxbllEH25SDJKkPXerw/12/25741860/png/32x32/1/_/1/2/Screenshot%202016-01-27%2001.07.37.png/ELTpsBMYyscCIAcoBw/cX0oUfMk5Tjk8jVNAqJ4AcrfT2baOzZUDFJcB3k7jMQ?size=2048x1536&size_mode=3)
+
+---
+**Understanding the problem with restaurant website design**  
+Written by the perspective of customers, gives a good break down of what a regular person expects in a very specific type of website. Use your personal frustration with most restaurant websites and
+
+[Why are restaurant websites so horrifically bad?](http://www.slate.com/articles/technology/technology/2011/08/overdone.single.html)  
+[Why Are So Many Bar and Restaurant Websites So Terrible?](http://www.esquire.com/food-drink/restaurants/a35466/bars-restaurants-terrible-websites/)
+
+---
+
+We will all finish as much as we can in class. Next class you will turn in final proto-personas, style tiles and a high fidelity wireframe.
+
+**Resources:**  
+[Personas: Putting the Focus Back on the User](http://www.uxbooth.com/articles/personas-putting-the-focus-back-on-the-user/)  
+[Using Proto-Personas for Executive Alignment](http://uxmag.com/articles/using-proto-personas-for-executive-alignment)  
+[How to Make Proto-Personas and Get Everyone on the Same Page](http://www.dtelepathy.com/blog/?p=15793)  
+[Reducing costs with Proto-Personas](http://uxoslo.com/2013/10/14/proto-personas/)  
+
+[Watch: Faster Design Decisions with Style Tiles by Samantha Warren – An Event Apart Video](https://vimeo.com/115992327)  
+[Style Tiles and How They Work](http://alistapart.com/article/style-tiles-and-how-they-work)  
+[Style Tiles: "No, It's Not The Home Page"](https://echo.co/blog/style-tiles-no-its-not-home-page)  
+[Style Tiles](http://styletil.es/)  
+[Our New Responsive Design Deliverable: The Style Prototype](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)  
+
+---
+
+
+
+To be completed by Monday, February 1
+------
+* Proto-persona profiles (see above)
+* Style Tiles (see above)
+* Site wireframe (see above)
+* Development Exercise (see below)
+* Read Chapters 3-8 of Duckett.
+* Read Intro and Chapters 1-4 of Krug
+* Watch [Don't Fear the Internet Episodes 7-8](http://www.dontfeartheinternet.com/)
+
+
+Development Exercise Due on Monday, February 1
+-----
+The goal of this exercise is to have you set up your domain/website for projects in this class, also to get you further familiar with HTML and the Atom coding interface.You will learn to properly construct an HTML document, insert text and image links and format basic text attributes.
+
+**Set Up Your Website**  
+I imagine there will be some questions here, so this exercise needs to be started in class.
+<br>
+
+1. Buy a domain. This can be done several ways. Let's talk about it in class. (if you already have one, follow the next steps)
+2. Set up your host. I'm familiar with [Bluehost](https://www.bluehost.com). It is very cheap and should suffice for this class.  
+3. Set up a subdomain for this class. Titled "learning"[Instructions](https://my.bluehost.com/cgi/help/274)  
+4 Connect via FTP. https://my.bluehost.com/cgi/help/264  
+5. Find your subdomain folder titled "learning"  
+6. Create a folder called exercises  
+7. Create a folder called ex3  
+8. Put all of the files for this exercise in that folder.  
+
+>I'm fairly positive I'm missing some steps here. Let's figure it out in class.
+
+
+**Exercise**  
+Make a copy of the in class exercise as a base for this project (ie folder structure, file placement)
+
+Go to food.com find recipe with photos and a significant number of steps (at least 4).
+Copying information from the original page, use your knowledge of tags to create an HTML page that includes (at
+least) the title, total time to prepare, photo, ingredients list, directions, and nutrition facts. You may include other
+content from the recipe if you’d like.
+
+Use proper HTML tags to sensibly format all parts of the recipe — headlines```<h1>,<h2>,<h3>, etc```, lists, etc. This includes:  
+------
+
+* Ingredients should be an unordered (bulleted) list.
+* Directions should be an ordered (numbered) list.  
+* The title should link ```(<a href=”...”>)``` to the original recipe page on food.com.  
+* The nutrition facts must be in a table.  
+
+
+Upload to a folder called “ex3" on your site. The URL should function everywhere at
+www.learning.yourdomain.com/exercises/ex3/  
+Once your link works, post it in Slack in #exercises  
