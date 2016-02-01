@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Class 3: Design Process - Class Canceled"
-date:   2016-01-27
+title:  "Class 4: Design Process"
+date:   2016-02-01
 categories: class
 ---
-This class was canceled due to late night ice warning/snow. See Class 4 Post
-<!--here for the purposes of archive -->
-<div class="gone" style="display:none">  
 
-We are a bit behind because of the snow day, so lots to catch up on! Lots and lots to do!
+We have a ton of catching up to to!
 
 In Class Exercise
 ------
@@ -121,7 +118,7 @@ We will all finish as much as we can in class. Next class you will turn in final
 
 
 
-To be completed by Monday, February 1
+To be completed by Wednesday, February 1
 ------
 * Proto-persona profiles (see above)
 * Style Tiles (see above)
@@ -173,4 +170,3 @@ Upload to a folder called “ex3" on your site. The URL should function everywhe
 www.learning.yourdomain.com/exercises/ex3/  
 Once your link works, post it in Slack in #exercises  
 </d>
-</div>
