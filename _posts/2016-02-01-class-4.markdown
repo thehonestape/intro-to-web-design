@@ -89,7 +89,7 @@ Hobbies: Family, arts and crafts
 
 
 Quick example of how we will simplify these stories  
-![mike](https://photos-3.dropbox.com/t/2/AACow5w0cpgYdNFICXb17LPrOnKwxbllEH25SDJKkPXerw/12/25741860/png/32x32/1/_/1/2/Screenshot%202016-01-27%2001.07.37.png/ELTpsBMYyscCIAcoBw/cX0oUfMk5Tjk8jVNAqJ4AcrfT2baOzZUDFJcB3k7jMQ?size=2048x1536&size_mode=3)
+![mike](https://dl.dropboxusercontent.com/u/25741860/mason/examples/Screenshot%202016-01-27%2001.07.37.png)
 
 ---
 **Understanding the problem with restaurant website design**  
