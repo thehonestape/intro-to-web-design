@@ -124,12 +124,13 @@ To be completed by Wednesday, February 1
 * Style Tiles (see above)
 * Site wireframe (see above)
 * Development Exercise (see below)
-* Read Chapters 3-8 of Duckett.
-* Read Intro and Chapters 1-4 of Krug
+* Read Chapters 3-8, 10-12 of Duckett.
+* Read Intro and Chapters 1-7 of Krug
+* Read chapters 1-3 of Shiffman, seminar will be February 10 (See syllabus about seminars)
 * Watch [Don't Fear the Internet Episodes 7-8](http://www.dontfeartheinternet.com/)
 
 
-Development Exercise Due on Monday, February 1
+Development Exercise Due on Wednesday, February 3
 -----
 The goal of this exercise is to have you set up your domain/website for projects in this class, also to get you further familiar with HTML and the Atom coding interface.You will learn to properly construct an HTML document, insert text and image links and format basic text attributes.
 
@@ -169,4 +170,3 @@ Use proper HTML tags to sensibly format all parts of the recipe — headlines```
 Upload to a folder called “ex3" on your site. The URL should function everywhere at
 www.learning.yourdomain.com/exercises/ex3/  
 Once your link works, post it in Slack in #exercises  
-</d>
