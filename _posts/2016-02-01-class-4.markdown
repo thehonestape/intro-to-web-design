@@ -20,7 +20,7 @@ Design Process
 
 
 Today we will be discussing web design process, focusing on the current state of web design and how things are being made today.
-[Today's Lecture PDF: Web Design Process](https://www.dropbox.com/s/m5oz7jivqy7wp5c/web_design_process.pdf?dl=0)
+[Today's Lecture PDF: Web Design Process](https://www.dropbox.com/s/aam9xm2ub6iaufn/web_design_process.pdf?dl=0)
 
 
 **Further Links/Resources on the Web Design Process**  
@@ -120,9 +120,12 @@ We will all finish as much as we can in class. Next class you will turn in final
 
 To be completed by Wednesday, February 1
 ------
-* Proto-persona profiles (see above)
-* Style Tiles (see above)
-* Site wireframe (see above)
+* Your District Taco Design brief, which includes:
+* Proto-persona profile writeups (What you did in your teams)
+* 3 tyle Tiles (see above)
+* Site wireframe (see above) [Download UX Kits Flowcharts](https://www.dropbox.com/s/cdcr2pyl9zyrttj/UX%20Kits%20Website%20Flowchart%20AI%20v1.0.zip?dl=0)
+* Here is an [example for formatting](https://www.dropbox.com/s/krwlpyf78vcc2l4/example_brief.pdf?dl=0). **DO NOT PAY ATTENTION TO THE DESIN OF THESE PAGES.** This is just to guide you on the pages that you need included.
+_
 * Development Exercise (see below)
 * Read Chapters 3-8, 10-12 of Duckett.
 * Read Intro and Chapters 1-7 of Krug
