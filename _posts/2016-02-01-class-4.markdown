@@ -124,7 +124,7 @@ To be completed by Wednesday, February 1
 * Proto-persona profile writeups (What you did in your teams)
 * 3 tyle Tiles (see above)
 * Site wireframe (see above) [Download UX Kits Flowcharts](https://www.dropbox.com/s/cdcr2pyl9zyrttj/UX%20Kits%20Website%20Flowchart%20AI%20v1.0.zip?dl=0)
-* Here is an [example for formatting](https://www.dropbox.com/s/krwlpyf78vcc2l4/example_brief.pdf?dl=0). **DO NOT PAY ATTENTION TO THE DESIN OF THESE PAGES.** This is just to guide you on the pages that you need included.
+* Here is an [example for formatting](https://www.dropbox.com/s/krwlpyf78vcc2l4/example_brief.pdf?dl=0). **DO NOT PAY ATTENTION TO THE DESIGN OF THESE PAGES.** This is just to guide you on the pages that you need included.
 _
 * Development Exercise (see below)
 * Read Chapters 3-8, 10-12 of Duckett.
