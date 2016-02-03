@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Class 5: Mobile First and Prototyping"
+date:   2016-02-03
+categories: class
+---
+
+**Set Up Your Website**  
+We ran out of time last week, so this will be the first thing we do in class  
+
+1. Buy a domain. This can be done several ways. Let's talk about it in class. (if you already have one, follow the next steps)
+2. Set up your host. I'm familiar with [Bluehost](https://www.bluehost.com). It is very cheap and should suffice for this class.  
+3. Set up a subdomain for this class. Titled "learning"[Instructions](https://my.bluehost.com/cgi/help/274)  
+4 Connect via FTP. https://my.bluehost.com/cgi/help/264  
+5. Find your subdomain folder titled "learning"  
+6. Create a folder called exercises  
+7. Create a folder called ex3  
+8. Put all of the files for exercise 3 in that folder.  
+9. Submit your working link to Slack.
+
+>I'm fairly positive I'm missing some steps here. Let's figure it out in class.
+
+Other host options:  
+I know at least one of you asked about other options other than Bluehost. The highest end shared hosting service I could find was [Media Temple](https://mediatemple.net/webhosting/shared/). I have used them in the past, they do have great customer support but are definitely more pricey than Bluehost.
+
+---
+
+Project 1
+------
+Building off the process that we practiced in class last week, I give you big Project 1.
+[Full Link to Project 1](https://docs.google.com/document/d/1UTwhVI4ywAdLMkyrmrHfzxyuLUfQ81Yq7Uw7Re9Cuzw/)
+
+---
+
+
+Mobile First
+We will be discussing what it means to design "mobile-first".  
+[Video: Luke Wroblewski-Mobile First](https://vimeo.com/38187066)  
+[Why Is It So Easy to Get "Mobile First" Wrong](http://deep.design/mobile-first/)
+
+---
+
+
+Sketching and Protoyping
+------
+Today we will be diving further into prototyping for the web. We will be doing hands on practice with [Invision](http://www.invisionapp.com/)
+
+---
+
+To be completed by Monday, February 8  
+------
+* Review Chapters 10, 11, 12 of Duckett.
+* <span class="highlighter">Read chapters 4 - 10 of Shiffman, seminar will be February 10 (See syllabus about seminars)</span>
+
+---
+
+Development Exercise Due on Monday, February 8
+-----
+
+**Outline**  
+The goal of this exercise is to help you learn to  
+
+* Link a CSS style to an HTML document  
+* Understand the relationship between CSS rules and HTML elements  
+* Understand CSS classes  
+* Be able to change CSS properties  
+
+
+**Style**  
+
+* Make a copy of your “ex3” folder, which contains your HTML recipe and image. Rename it “ex4”.  
+* Create a new folder inside “ex4” called “css”. This is where you will put your external CSS file.  
+* Create an external CSS file, link it to the HTML file, and use it to style your page. It must meet the requirements below at minimum, though additional exploration is encouraged.  
+* All style must be done in CSS and NOT in the HTML — this includes colors, backgrounds, alignment, and centering.  
+
+**Submit**  
+Upload to a folder called ex4" on your site. The URL should function everywhere at
+www.learning.yourdomain.com/exercises/ex4/  
+
+Once your link works, post it in Slack in #exercises  
