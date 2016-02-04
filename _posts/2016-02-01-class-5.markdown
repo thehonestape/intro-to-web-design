@@ -73,6 +73,17 @@ The goal of this exercise is to help you learn to
 * Create an external CSS file, link it to the HTML file, and use it to style your page. It must meet the requirements below at minimum, though additional exploration is encouraged.  
 * All style must be done in CSS and NOT in the HTML — this includes colors, backgrounds, alignment, and centering.  
 
+
+**Requirements**
+1. Restyle all text on the page in some fashion. You should aim for coherence in your font and color selection. Be sure to use only the suggested web fonts (Arial, Verdana, Georgia, etc.).  
+2. Restyle the nutrition facts table by adding background colors and other properties as seen on pages Ducket
+337-340.  
+3. Restyle the lists using properties seen on pages 333-336.  
+4. Find a background image from subtlepatterns.com and use it on the whole page.  
+5. Restyle all four states of the link to the original recipe on food.com (link, visited, hover, and active).  
+6. Add a border to the image.  
+7. You must use at least one class and one ID, though you will likely need more.  
+
 **Submit**  
 Upload to a folder called ex4" on your site. The URL should function everywhere at
 www.learning.yourdomain.com/exercises/ex4/  
