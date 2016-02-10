@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Class 7: Seminar, Memes and Participatory Culture"
+date:   2016-02-10
+categories: class
+---
+
+#### Memes in Digital Culture
+[Lecture Slides](https://docs.google.com/presentation/d/1G0o4ujOcmmlxh9pM0tguSZ_S6gx3AtZuAkVN3qGyRVc/edit?usp=sharing)  
+Lecture followed by discussion and studio hours for project 1
+
+
+Due on Monday Feb 15
+------
+* Continue work on Project 1  
+* Exercise 5 - See Below
+* Read [How to use an HTML boilerplate](http://www.creativebloq.com/web-design/how-use-html-boilerplate-11513798)
+* Visit and complete [Learn Layout](http://learnlayout.com/display.html)  
+* Review HTML5 Doctors's [Element Index](http://html5doctor.com/element-index/)  
+* Review CSSTricks [What Beautiful HTML Looks Like](https://css-tricks.com/examples/CleanCode/Beautiful-HTML.png)  
+* Review CSSTricks [Page Structure](https://css-tricks.com/snippets/html/html5-page-structure/)  
+* Save/Bookmark the [HTML5 Cheat Sheet](http://websitesetup.org/html5-cheat-sheet/)  
+* Read Ducket Chapter 13 and 15  
+* Review the [Display Property](https://css-tricks.com/almanac/properties/d/display/)
+* Read [CSS Floats 1010](http://alistapart.com/article/css-floats-101) and [CSS Positioning 101](http://alistapart.com/article/css-floats-101)  
+* Read [Why you should use inline-block](http://joshnh.com/weblog/why-you-should-use-inline-block-when-positioning-elements/)  
+* Read [What’s the Deal With Display: Inline-Block?](http://designshack.net/articles/css/whats-the-deal-with-display-inline-block/)  
+* Brush up with [HTML and CSS Fundamental on Codecademy](https://www.codecademy.com/learn/web)
+
+---
+
+### Exercise 5
+
+**Structure**
+
+* Download the [HTML5 Boilerplate Responsive Template](http://www.initializr.com/) - [Direct Link](http://www.initializr.com/builder?izr-responsive&jquerymin&h5bp-iecond&h5bp-chromeframe&h5bp-favicon&h5bp-appletouchicons&modernizrrespond&h5bp-css&h5bp-csshelpers&h5bp-mediaqueryprint&izr-emptyscript)
+* Expand the zip file and rename the folder ex4
+* Change the code ```h1.title``` to say ```My Recipe```.
+* Change the three nav links ```nav ul li a``` to Ingredients, Directions, Nutrition Information respectively
+* Change ```article header h1``` to the name of your recipe but make sure it links to the original recipe. You will be mixing tags. ```<h1><a href="/">Your recipe</a></h1>```
+* Place your Ingredients , Directions and Nutrition Information properly onto the page, following the template structure.  
+```<h2>Ingredients</h2> <ul>....etc```
+* Place your image in the img folder and place it into the ```<aside>``` section of the site.
+* Place your name in the footer
+
+**Anchor Links**  
+You will be creating anchor links/bookmarks in your document to allow the navigation to jump to a section of the site.  
+* In your navigation, the link in your navigation for Ingredients should link to the Ingredients section of your site, Direction to the Direction section, Nutrition Information to the Nutrition Information of the site.
+How To Documentation:
+[HTML Links - Create a Bookmark of the W3Schools Links Article](http://www.w3schools.com/html/html_links.asp)
+[HTML Bookmark Links](http://www.codertools.com/html_guide/html_named_anchors_bookmark_links.aspx)
+
+**Style**  
+You will be modifying the template styles to your liking. The following is the bare minimum to showcase your working knowledge of CSS.  
+
+* Change the color of the header and footer and the header and footer borders.
+* Change the thickness of the header and footer borders
+* Change the color of the site background.
+* Change the sites font-family using a google webfonts. Use the Quickuse method. For more information check out [Google's documentation.](https://developers.google.com/fonts/docs/getting_started?hl=en
+* Change the color of your table's borders.
+* Add padding to your table. Look at [Table Padding](http://www.w3schools.com/css/css_table.asp)
+* Make sure your table is responsive ie width set to 100%, not a set pixel amount.
+
+
+**Submit**  
+Upload to a folder called ex5" on your site. The URL should function everywhere at
+www.learning.yourdomain.com/exercises/ex5/  
+Once your link works, post it in Slack in #exercises   
