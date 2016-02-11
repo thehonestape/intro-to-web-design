@@ -34,7 +34,7 @@ Due on Monday Feb 15
 **Structure**
 
 * Download the [HTML5 Boilerplate Responsive Template](http://www.initializr.com/) - [Direct Link](http://www.initializr.com/builder?izr-responsive&jquerymin&h5bp-iecond&h5bp-chromeframe&h5bp-favicon&h5bp-appletouchicons&modernizrrespond&h5bp-css&h5bp-csshelpers&h5bp-mediaqueryprint&izr-emptyscript)
-* Expand the zip file and rename the folder ex4
+* Expand the zip file and rename the folder ex5
 * Change the code ```h1.title``` to say ```My Recipe```.
 * Change the three nav links ```nav ul li a``` to Ingredients, Directions, Nutrition Information respectively
 * Change ```article header h1``` to the name of your recipe but make sure it links to the original recipe. You will be mixing tags. ```<h1><a href="/">Your recipe</a></h1>```
