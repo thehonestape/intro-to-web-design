@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Class 8: Snow Day"
+date:   2016-02-15
+categories: class
+---
+
+#### Class canceled
+* Continue work on Project 1  
+* * Brush up with [HTML and CSS Fundamental on Codecademy](https://www.codecademy.com/learn/web)  

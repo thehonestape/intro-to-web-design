@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Class 9: Patterns & Typography"
+date:   2016-02-17
+categories: class
+---
+
+#### User Patterns
+[Class Slides](https://www.dropbox.com/s/wfyndcckmo0qaur/patterns.pdf?dl=0)
+
+Conventions Are Your Friend - <em>Don't Make Me Think</em>   
+
+* Take Advantage of conventions
+* Create effective visual hierarchies
+* Break pages up into clearly defined area
+* Make it obvious what's clickable
+* Eliminate distractions
+* Format content to support scanning
+
+[UX Myth #9 - Design has to be original](http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original)
+
+
+---
+
+#### Hamburger Icon  
+
+[Why and How to Avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/)  
+[How to Sove the Hamburger Menu Problem](http://www.webdesignerdepot.com/2014/06/how-to-solve-the-hamburger-icon-problem/)  
+
+Hamburger Icon Problems
+
+* Lower Discoverability  
+*  Less Efficient
+*  Clash with Platform Navigation Patterns
+*  Not Glanceable
+
+
+---
+
+#### Dark Patterns
+>Dark Patterns are User Interfaces that are designed to trick people. Normally when you think of “bad design”, you think of laziness or mistakes. These are known as design anti-patterns. Dark Patterns are different – they are not mistakes, they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind.  
+
+[darkpatterns.org](http://darkpatterns.org/)  
+[Dark Patterns: Deception vs. Honesty in UI Design](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design)  
+[Dark Patterns: Inside the Interfaces Designed to Trick You](http://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you)
+
+---
+
+#### Patterns/Style Guides
+[Watch Making Material Design](https://design.google.com/videos/making-material-design/)  
+[Google Material Design Guidelines](https://www.google.com/design/spec/material-design/introduction.html)  
+[Google Design and UI Guidelines](https://developers.google.com/web/fundamentals/design-and-ui/?hl=en)  
+[Mailchimp Pattern Library](http://ux.mailchimp.com/patterns)  
+[Pattern Lab - Brad Frost](http://patternlab.io/)  
+
+
+#### Pattern Resources
+[Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)  
+[Pattern Tap](http://zurb.com/patterntap)  
+[UI Patterns](http://ui-patterns.com)  
+[Design Patterns on Codepen](http://codepen.io/patterns/)  
+[Mastering UI Patterns for Smarter Design](http://www.awwwards.com/mastering-ui-patterns-for-smarter-design.html)   
+[Mobile Patterns](http://www.mobile-patterns.com/)  
+[pttrns.com](http://pttrns.com/)  
+[Hover States](http://hoverstat.es/)  
+
+
+---
+
+### Typography
+* Watch [Type Safari](https://www.youtube.com/watch?v=lnhBgpd0y1Q)  
+* Watch [Typographic Design in the Digital Domain with Erik Spiekermann & Elliot Jay Stocks](https://www.youtube.com/watch?v=SG0Ou07IDhQ)  
+
+**Resources**  
+
+* [Web Safe Fonts](http://www.w3schools.com/cssref/css_websafe_fonts.asp)  
+* [Google Web Fonts](https://www.google.com/fonts)  
+* [Typekit](https://typekit.com/fonts)  
+* [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+
+
+---
+
+
+Due on Class 10 Monday Feb 22
+------
+* Project 1 Presentations
+* Watch [Jason Santa Maria - On Web Typography](Jason Santa Maria - On Web Typography)
+* [Matthew Carter: My life in typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces?language=en)  
+* Read [Using @fontface](https://css-tricks.com/snippets/css/using-font-face/)  
+* Complete [33 Laws of Typography on Lyda.com](http://www.lynda.com/Design-Page-Layout-tutorials/Introduction/147012/360824-4.html)
+* [Making Sense Of Type Classification (Part 1)](https://www.smashingmagazine.com/2013/04/making-sense-type-classification-part-1/))  
+* [Choosing the Right Font: A Guide to Typography and UX](https://www.usertesting.com/blog/2014/08/06/choosing-the-right-font-a-guide-to-typography-and-user-experience/)  
+* [Web Designers Need To Remember Typography Influences Usability](http://blog.usabilla.com/web-designers-need-to-remember-typography-influences-usability/)  
+* Read [WEB DESIGN IS 95% TYPOGRAPHY](https://ia.net/know-how/the-web-is-all-about-typography-period)  
+* Read [Typography is how text looks](http://practice.typekit.com/lesson/typography-is-how-text-looks/)  
+* Read [Selecting TYPEFACES for body text](http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/)
+* [A Guide to: Better and Sharper UI Icons with Web Fonts](http://www.hongkiat.com/blog/webfont-icons/)
+* [The Great Icon Debate: Fonts Vs SVG](http://www.sitepoint.com/icon-fonts-vs-svg-debate/)  
+* [Understanding The Difference Between Type And Lettering](https://www.smashingmagazine.com/2013/01/understanding-difference-between-type-and-lettering/)  
+* Complete [Type Connection Game](http://www.typeconnection.com/)  
