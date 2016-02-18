@@ -85,7 +85,7 @@ Hamburger Icon Problems
 Due on Class 10 Monday Feb 22
 ------
 * Project 1 Presentations
-* Watch [Jason Santa Maria - On Web Typography](Jason Santa Maria - On Web Typography)
+* Watch [Jason Santa Maria - On Web Typography](https://vimeo.com/34178417)
 * [Matthew Carter: My life in typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces?language=en)  
 * Read [Using @fontface](https://css-tricks.com/snippets/css/using-font-face/)  
 * Complete [33 Laws of Typography on Lyda.com](http://www.lynda.com/Design-Page-Layout-tutorials/Introduction/147012/360824-4.html)
