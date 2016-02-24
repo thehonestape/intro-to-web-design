@@ -10,8 +10,8 @@ Be prepared to present Project 1
 
 Due on Class 10 Monday Feb 22
 ------
-* Final Project 1 Files, incorporating any feedback (Will be posting dropbox request link after class)
-* Exercise 6 - See Below
+* Final Project 1 Files, incorporating any feedback (Will be posting dropbox request link after class)  
+<del>* Exercise 6 - See Below
 * Visit and complete [Learn Layout](http://learnlayout.com/display.html)  
 * Review HTML5 Doctors's [Element Index](http://html5doctor.com/element-index/)  
 * Review CSSTricks [What Beautiful HTML Looks Like](https://css-tricks.com/examples/CleanCode/Beautiful-HTML.png)  
@@ -26,18 +26,20 @@ Due on Class 10 Monday Feb 22
 
 ---
 
-#### Exercise 6
+update, not due on 2/24
 
-**Structure**
+<del>#### Exercise 6
 
-* Download the [Project Files](https://www.dropbox.com/s/35m35afu6mbhj7l/ex5.zip?dl=0)
-* Expand the zip file and rename the folder ex6
-* Make each problem look like the provided reference image by changing position, float, clear, and display properties in CSS. Do NOT alter the HTML. Make all edits in the main.css  
-* [Reference image](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex6/boxes.png)
-* Ask questions in slack if you are confused
+<del>**Structure**
+
+<del>* Download the [Project Files](https://www.dropbox.com/s/35m35afu6mbhj7l/ex5.zip?dl=0)
+<del>* Expand the zip file and rename the folder ex6
+<del>* Make each problem look like the provided reference image by changing position, float, clear, and display properties in CSS. Do <del>NOT alter the HTML. Make all edits in the main.css  
+<del>* [Reference image](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex6/boxes.png)
+<del>* Ask questions in slack if you are confused
 
 
-**Submit**  
-Upload our folder ex6 on your site. The URL should function everywhere at
-www.learning.yourdomain.com/exercises/ex5/  
-Once your link works, post it in Slack in #exercises  
+<del>**Submit**  
+<del>Upload our folder ex6 on your site. The URL should function everywhere at
+<del>www.learning.yourdomain.com/exercises/ex5/  
+<del>Once your link works, post it in Slack in #exercises  </del>
