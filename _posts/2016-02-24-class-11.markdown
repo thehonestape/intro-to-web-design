@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Class 11: Responsive Web Design"
+date:   2016-02-24
+categories: class
+---
+
+### Responsive Web Design
+So far we've talked quite a bit about the responsive web design process but have not gotten to brass tack on how that is implemented within a project.
+
+
+---
+
+### Responsive Web Design Resources
+* [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)  
+* [Responsive Web Design by Ethan Marcotte](http://alistapart.com/article/responsive-web-design)
+* [9 GIFs That Explain Responsive Design Brilliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)  
+* [Responsive Web Design: Missing the Point](http://bradfrost.com/blog/web/responsive-web-design-missing-the-point/)  
+* [This Is Responsive](https://bradfrost.github.io/this-is-responsive/)
+
+---
+
+### Workshop
+* Display, float and positioning.  
+* Responsive widths.  
+* Working with Bootstrap Boilerplate and examining the grid.  
+
+---
+
+### These are from class 10 but make sure you've completed these items
+* Visit and complete [Learn Layout](http://learnlayout.com/display.html)  
+* Review HTML5 Doctors's [Element Index](http://html5doctor.com/element-index/)  
+* Review CSSTricks [What Beautiful HTML Looks Like](https://css-tricks.com/examples/CleanCode/Beautiful-HTML.png)  
+* Review CSSTricks [Page Structure](https://css-tricks.com/snippets/html/html5-page-structure/)  
+* Save/Bookmark the [HTML5 Cheat Sheet](http://websitesetup.org/html5-cheat-sheet/)  
+* Read Ducket Chapter 13 and 15  
+* Review the [Display Propery](https://css-tricks.com/almanac/properties/d/display/)
+* Read [CSS Floats 1010](http://alistapart.com/article/css-floats-101) and [CSS Positioning 101](http://alistapart.com/article/css-floats-101)  
+* Read [Why you should use inline-block](http://joshnh.com/weblog/why-you-should-use-inline-block-when-positioning-elements/)  
+* Read [What’s the Deal With Display: Inline-Block?](http://designshack.net/articles/css/whats-the-deal-with-display-inline-block/)  
+* Brush up with [HTML and CSS Fundamental on Codecademy](https://www.codecademy.com/learn/web)  
+
+---
+
+#### Exercise 7
+
+**Structure**
+
+* Download the [Project Files](https://www.dropbox.com/s/35m35afu6mbhj7l/ex5.zip?dl=0)
+* Expand the zip file and rename the folder ex6
+* Make each problem look like the provided reference image by changing position, float, clear, and display properties in CSS. Do NOT alter the HTML. Make all edits in the main.css  
+* [Reference image](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex6/boxes.png)
+* Ask questions in slack if you are confused
+
+
+**Submit**  
+Upload our folder ex6 on your site. The URL should function everywhere at
+www.learning.yourdomain.com/exercises/ex5/  
+Once your link works, post it in Slack in #exercises
+
+
+---
+
+
+
+#### Exercise 6
+
+To familiarize yourself with the Bootstrap grid, we will be creating a wiki style entry for your favorite artist.
+
+**Structure**  
+
+* You will  need the [Bootstrap documentation](http://getbootstrap.com/) for this.  
+* Download the the [ex6 folder](https://www.dropbox.com/s/zn3arh5ymgqrvx1/ex6.zip?dl=0).  
+* Lookup the wikipedia for your favorite musician and two of their albums  
+* Here are the examples of what you will be creating. [Large View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/largeview.png) [Small View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/smallview.png)    
+* Using the Boostrap syntax create a 12 column area and place an image  
+* Create two col-md-6 columns and place content about the artist  
+* Create two-four col-md-6 columns. In the first column, place an album image, in the other place some content about that album.   
+
+
+* Upload to your site and share the URL in Slack.
