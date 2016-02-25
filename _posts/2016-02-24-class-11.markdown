@@ -42,7 +42,7 @@ So far we've talked quite a bit about the responsive web design process but have
 
 ---
 
-#### Exercise 7
+#### Exercise 6
 
 **Structure**
 
@@ -55,7 +55,7 @@ So far we've talked quite a bit about the responsive web design process but have
 
 **Submit**  
 Upload our folder ex6 on your site. The URL should function everywhere at
-www.learning.yourdomain.com/exercises/ex5/  
+www.learning.yourdomain.com/exercises/ex6/  
 Once your link works, post it in Slack in #exercises
 
 
@@ -63,7 +63,7 @@ Once your link works, post it in Slack in #exercises
 
 
 
-#### Exercise 6
+#### Exercise 7
 
 To familiarize yourself with the Bootstrap grid, we will be creating a wiki style entry for your favorite artist.
 
@@ -78,4 +78,5 @@ To familiarize yourself with the Bootstrap grid, we will be creating a wiki styl
 * Create two-four col-md-6 columns. In the first column, place an album image, in the other place some content about that album.   
 
 
-* Upload to your site and share the URL in Slack.
+* Upload to your site and share the URL in Slack
+www.learning.yourdomain.com/exercises/ex7/  
