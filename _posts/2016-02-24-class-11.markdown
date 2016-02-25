@@ -70,7 +70,7 @@ To familiarize yourself with the Bootstrap grid, we will be creating a wiki styl
 **Structure**  
 
 * You will  need the [Bootstrap documentation](http://getbootstrap.com/) for this.  
-* Download the the [ex6 folder](https://www.dropbox.com/s/zn3arh5ymgqrvx1/ex6.zip?dl=0).  
+* Download the the [ex7 folder](https://www.dropbox.com/s/d3dlxr16q79f8xf/ex7.zip?dl=0).  
 * Lookup the wikipedia for your favorite musician and two of their albums  
 * Here are the examples of what you will be creating. [Large View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/largeview.png) [Small View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/smallview.png)    
 * Using the Boostrap syntax create a 12 column area and place an image  
