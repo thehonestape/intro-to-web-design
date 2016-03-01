@@ -5,7 +5,7 @@ date:   2016-02-24
 categories: assignments
 ---
 
-#### Assignment 2
+### Assignment 2: Due Wednesday March 2
 Pick a name, genre and style for your band.  
 Deliverables:    
 One single PDF with the pages:  
