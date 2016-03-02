@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Class 13: Workshop"
+date:   2016-03-02
+categories: class
+---
+
+We will be making sure everyone is prepared to work on [Project 2](https://docs.google.com/document/d/1EuLvqW09PbJPvGQUxp2m-hIiOo2HMpGw-B14o7rj-gY/edit?usp=sharing)
+ over the break.
+
+We will be using the HTML5 Boilerplate - Bootstrap Build as a basis.
+1. Download the [Bootstrap version of the HTML5 Boilerplate](http://www.initializr.com/builder?boot-hero&jquerymin&h5bp-iecond&h5bp-chromeframe&h5bp-analytics&h5bp-favicon&h5bp-appletouchicons&h5bp-404&modernizrrespond&izr-emptyscript&boot-css&boot-scripts)
+2. Expand the folder and name it correctly (project2)
+
+---
+
+## Review Project 2 Selections
+Present a few band Selections
+
+---
+
+## Folder organization Review
+Review folder organization for web projects
+
+---
+
+## Image creation and export Review
+Reviewing the exporting and placement of images into your folder
+
+---
+
+## Wireframing your band page
+Review wireframing process for your site
+
+---
