@@ -23,7 +23,8 @@ This depends on your webhost, but these are the general instructions. If you hav
 3. Connect to your server via FTP  
 4. Put your files on the server inside of the subdomain (all files, not just the folder)   
 5. Make sure things are working correctly
-6. Post your link in Slack Projects Channel
+6. Post your link in Slack #projects channel
+
 
 ---
 
