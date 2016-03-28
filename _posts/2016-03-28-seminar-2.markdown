@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Seminar: Beauty in Web Design"
+date:   2016-03-28
+categories: seminars
+---
+
+Seminar will be Monday April 4th.
+---
+
+Like the last one, this will be a mostly lecture class, discussing the following readings. Come prepared with questions, insights and opinions on the material.
+
+---
+* Read [Landmark Web Sites, Where Art Thou?](http://www.underconsideration.com/speakup/archives/004033.html)  
+* Read [Beauty in web design, part 1](http://www.cennydd.com/writing/beauty-in-web-design-part-1)  
+* Read [The Web Aesthetic](http://alistapart.com/article/the-web-aesthetic)  
+* Read [Myth #25: Aesthetics are not important if you have good usability](http://uxmyths.com/post/1161244116/myth-25-aesthetics-are-not-important-if-you-have-good-us)  
+* Read [19. Visual Aesthetics by by Noam Tractinsky](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-aesthetics)  
+
+
+* Read [Beauty in web design, part 2](http://www.cennydd.com/writing/beauty-in-web-design-part-2)  
+* Read [Affordances and Design](http://www.jnd.org/dn.mss/affordances_and.html)  
+* Read [Functional Beauty and User Experience](https://uxmag.com/articles/functional-beauty-and-user-experience)  
+* Watch [Minimum Viable Personality with Fake Grimlock](https://www.youtube.com/watch?v=MjyjWPMqTrs)  
+* Read [Minimum Viable Personality](http://avc.com/2011/09/minimum-viable-personality/)  
+
+
+* Read [Beauty in web design, part 3](http://www.cennydd.com/writing/beauty-in-web-design-part-3)  
+* Check out [Little Big DetailsAboutArchiveRSSSubmit Detail](http://littlebigdetails.com/)  
+* Read [Cooper Hewitt’s Triennial Asks: What Makes Something Beautiful](http://www.nytimes.com/2016/02/11/fashion/cooper-hewitts-triennial-asks-what-makes-something-beautiful.html)  
+* Read [BEAUTY—COOPER HEWITT DESIGN TRIENNIAL](https://collection.cooperhewitt.org/exhibitions/69155413)  
+* Check out the videos on [BEAUTY—COOPER HEWITT DESIGN TRIENNIAL](https://collection.cooperhewitt.org/exhibitions/69155413/videos/)  

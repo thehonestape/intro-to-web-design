@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Class 18: Project 2 Presentations"
+date:   2016-03-28
+categories: class
+---
+
+## Project 2 Presentations  
+Remember, speak clearly about your work. Talk about your design and development process with confidence and let us know how you arrived at your design solution.
+
+---
+
+Next seminar, Beauty in Web Design will be Monday April, 4th. See <a href='{{ base }}/intro-to-web-design/seminars/2016/03/28/seminar-2.html'>seminar 2 information<a>.
+---
+
+----
+
+Turning in Project 2  
+This depends on your webhost, but these are the general instructions. If you have questions about this, please ask them sooner rather than later.
+
+1. Login to your webhost  
+2. Create a new subdomain (yourprojectname.yourwebsitename.com)  
+3. Connect to your server via FTP  
+4. Put your files on the server inside of the subdomain (all files, not just the folder)   
+5. Make sure things are working correctly
+6. Post your link in Slack Projects Channel
+
+---
+
+
+Due on Class 19 Wednesday 3/30
+--
+Project 2  
+Prepare for our next <a href='{{ base }}/intro-to-web-design/seminars/2016/03/28/seminar-2.html'>Seminar<a>
