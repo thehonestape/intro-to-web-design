@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Project 3: Portfolio"
+date:   2016-04-04
+categories: projects
+---
+
+Project 3 Assigned
+---
+[Project 3 Is Here.](https://docs.google.com/document/d/1W9WimtwwlsE99okXZMmc6ugFCXEY8paH_5UH0a_BfDU/edit?usp=sharing)

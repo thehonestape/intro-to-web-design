@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Class 20: Beauty in Web Design"
+date:   2016-04-04
+categories: class
+---
+
+## Beauty in Web Design
+[Presentation link](https://docs.google.com/presentation/d/1x05DSXaS_D3Xt58A_MyE4IehC-NOPoGdVrEfqjWpY4c/edit?usp=sharing)
+
+---
+
+[Project 3 has been assigned.](https://docs.google.com/document/d/1W9WimtwwlsE99okXZMmc6ugFCXEY8paH_5UH0a_BfDU/edit?usp=sharing)
