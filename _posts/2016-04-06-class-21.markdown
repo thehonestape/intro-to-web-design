@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Class 21: Portfolios: Inspiration, Aspiration, and Limitations"
+date:   2016-04-06
+
+categories: class
+---
+
+## Porfolio Inspration
+
+Let's begin by breaking up and examing the most common portoflio website patterns.
+
+Story > Writing > Design Work > Call to Action (CTA)  
+Most of the emphasis is on the designer's story and their thoughts/writings, followed up finally by their design work examples.  
+
+1. [Tobias van Schneider](http://www.vanschneider.com/)  
+Still very visual but the order puts the designer's story and writings first.   
+
+2. [Joel Califa](http://joelcalifa.com/)  
+Has no images of actual design work on the homepage. Puts the designer's story and experience first then mentions actual design work in link form towards the bottom.  
+
+3. [Jessica Hische](http://jessicahische.is/)  
+
+4. [Sean Goodwin](http://www.seangoodw.in/)  
+A Mason student who interned for us at Workhorse. Sean is most interested in UX and product design, so his portfolio is heavy on story and process.
+
+5. [Klare Frank](http://klare.io/)
+
+Design work > Biography > CTA  
+Probably the most common portfolio...a large grid of images of work.
+
+1. [Nick Slater](http://www.nicholasslater.co/)  
+2. [Sam Dallyn](http://www.samdallyn.co.uk/)  
+3. [Bethany Heck](http://heckhouse.com/)  
+4. [Colin Grist](http://www.colingrist.com/)
+
+
+
+Biography/CV (here as a classification...you will have to show work on your assignment)  
+
+1. [Jared Erondu](http://www.erondu.com/)  
+2. [Colin Dunn](http://colindunn.com/)  
+3. [Tim Hoover](http://www.iamtimhoover.com/)  
+
+---
+
+## Aspirations
+
+After looking at these and other examples. Think about your work and the work that you want to do. Take your research and begin to sketch out the vision for your portfolio.
+
+---
+
+## Limitations
+
+Focus on concepts, reading order, user-flow instead of features or specific interactions. This is a good opportunity to self edit: remove projects from your portfolio, simplify interactions, edit out features.
+
+---
+
+Due on Class 22, Monday, May 11
+---
+
+
+Completed wireframes and style tiles for your site
+
+In PDF format:
+Page 1: Cover page
+Page 2: Final wireframes
+Page 3-5: Style tiles
+
+Submit your assignment here: [Submit Assignment Link](https://www.dropbox.com/request/4FQKKVzfalh39wKlXXzw)  
