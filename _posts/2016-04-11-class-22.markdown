@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Class 22: Portfolios: Patterns in Code"
+date:   2016-04-11
+
+categories: class
+---
+
+## Helpful examples and bits
+
+The internet is full of awesome and awful examples, bits of codes and tutorials. I want to provide you with some of the better ones in case you need inspiration/help implementing something you want to do:
+
+[Simple Thumbnail Gallery](http://codepen.io/thehonestape/pen/jqZywZ)  
+[Cool thumbnails](http://tympanus.net/codrops/?s=thumbnail&search-type=posts)  
+
+Sites  
+[Cody House](https://codyhouse.co/)  
+[Codrops](http://tympanus.net/codrops/)  
+[Little Snippets](http://littlesnippets.net/)  
+[Patterns on Codepen](http://codepen.io/patterns/)  
+
+Go back and look at the Patterns lecture for any additional information
+
+---
+
+One on One Meetings to go over your wireframes and style tiles. Will pass around doodl on slack
+
+---
