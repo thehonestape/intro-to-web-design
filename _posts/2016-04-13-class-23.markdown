@@ -6,7 +6,7 @@ date:   2016-04-13
 categories: class
 ---
 
-## Showing off your work
+## Showing your work
 
 Awesome. You are making a portfolio website. You have your wireframes and style tiles ready. Let's take a quick step back and think about how to display our work.
 
