@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Class 24: Project 3 Workshop"
+date:   2016-04-18
+
+categories: class
+---
+
+## Studio
+
+All of you should be in the development phase of your project. We will be working in class, answering questions.
+
+
+---
+
+One on One Meetings to go over progress/coding help: [http://doodle.com/poll/bzmsu6yymrgfvpk4](http://doodle.com/poll/bzmsu6yymrgfvpk4)
+
+---
