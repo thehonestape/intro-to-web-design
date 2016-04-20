@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Class 25: Cross Browser Testing & Project 3 Workshop"
+date:   2016-04-20
+categories: class
+---
+
+## Cross Browser Testing
+
+Not all browsers are created equally, therefore you must be cognizant of what works on different browsers
+
+**Tools**  
+[Can I Use](http://caniuse.com/)  
+
+**Free Testing**  
+[Browser Shots](http://browsershots.org/)  
+[Browser Sandbox](https://turbo.net/browsers)  
+[View Like Us](http://www.viewlike.us/)  
+
+**Paid Testing**  
+[Browser Stack](https://www.browserstack.com)
+
+**Native Tools**  
+All your browsers  
+[X Code](https://developer.apple.com/xcode/)  
+
+**Cool Dev Tools to Help You Develop**  
+[LiveReload for Atom](https://atom.io/packages/livereload)  
+[Emmet](http://emmet.io/)  
+[Emmet for Atom](https://atom.io/packages/emmet)  
+[Atom Autoprefixer](https://atom.io/packages/autoprefixer)  
+[Atom Beautify](https://atom.io/packages/atom-beautify)  
+
+---
+
+One on One Meetings to go over progress/coding help. 
+
+---
