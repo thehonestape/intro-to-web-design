@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Class 26: Workshop and Snippets"
+date:   2016-04-25
+categories: class
+---
+
+## Workshop  
+Only one week until you projects are due. I hope everyone is ready to put in one final big final week of work to finalize your sites.  
+
+## Snippets  
+
+**Masonry**  
+Bootstrap + Masonry : [http://codepen.io/thehonestape/pen/yOxVYq](http://codepen.io/thehonestape/pen/yOxVYq)  
+Bootstrap + Masonry (no-margins): [http://codepen.io/thehonestape/pen/GZXNdv](http://codepen.io/thehonestape/pen/GZXNdv)  
+
+Forked from David Desandro's Codepen and modified to appear as thumbnails.  
+
+Must have [Masonry](//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js) installed.  
+
+Look at their documentation for information.  
+
+**Hide Navbar, Show When Scroll Up**  
+[Headroom](http://wicky.nillia.ms/headroom.js/)  : Auto hide navbar until you scroll up  
+[Bootstrap Auto-Hiding Navbar](https://github.com/istvan-ujjmeszaros/bootstrap-autohidingnavbar)   
+
+
+**Page Transitions**  
+[http://smoothstate.com/](http://smoothstate.com/)  
+<sub><sup>some known issues with wordpress plugins</sup></sub>  
+
+**Creating Pagination on Static Websites**  
+[Next and Previous Pages for Static Sites](http://www.wesedholm.com/2010/12/19/solution-use-jquery-on-a-static-site-to-automatically-link-together-pages-in-a-back-and-next-fashion/)  
+
+---
+
+One on One Meetings to go over progress/coding help:   [http://doodle.com/poll/2zuyckdw85brs78p](http://doodle.com/poll/2zuyckdw85brs78p)  
+
+---
