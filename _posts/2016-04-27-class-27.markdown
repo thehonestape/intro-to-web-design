@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Class 27: Final Workshop"
+date:   2016-04-27
+categories: class
+---
+
+## Workshop  
+Last day of in-class workshops
+
+
+## Your Sites Social and Analtyics Settings ##
+[Set Up Google Analytics](https://support.google.com/analytics/answer/1008080?hl=en)  
+The basic code setup should have come with the Initializer document, just need to place your tracking code.
+
+[Facebook Open Graph for Websites](https://developers.facebook.com/docs/reference/opengraph/object-type/website/)  
+[Facebook Open Graph Debugger](https://developers.facebook.com/tools/debug/)  
+
+
+---
+
+One on One Meetings to go over progress/coding help:   [http://doodle.com/poll/awyc6p3pyk2cqruh](http://doodle.com/poll/awyc6p3pyk2cqruh)  
+
+---
